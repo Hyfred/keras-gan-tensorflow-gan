@@ -1,1 +1,1 @@
-# keras-gan-tensorflow-gan
+# keras-gan & tensorflow-gan
